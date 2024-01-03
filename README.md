@@ -1,2 +1,2 @@
 # MyJava
-My Java Program for AP Computer Science
+Simple program In java that calculates the price of used video games
